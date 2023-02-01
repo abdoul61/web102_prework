@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Game app 
 
 Submitted by: Souley Abdoul Aziz
 
@@ -17,9 +17,9 @@ The following **required** functionality is completed:
 
 The following search bar  features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-  I added some css feattures to the buttons 
-	I added css features to the image being displayed on the website 
+* [x] List anything else that you can get done to improve the app functionality!
+  I added some css features to the buttons 
+	I added css features to the images being displayed on the website 
 
 ## Video Walkthrough
 
@@ -37,11 +37,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-My only changelle was to build the live seach bar to search for a specific game.
+My only challenge was to build the live seach bar to search for a specific game.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Souley abdoul Aziz
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
