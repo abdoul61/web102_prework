@@ -19,8 +19,13 @@ body {
     margin-top: -10px;
 }
 
-.stats-container {
+.stats-container{
     display: flex;
+    align-items: center;
+}
+.stats-container:hover{
+    cursor:pointer;
+    box-shadow:0 0 30px lightblue;
 }
 
 .stats-card {
@@ -46,8 +51,11 @@ body {
     width: 100%;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
+		transition:all .6s ease-in-out;
 }
-
+.game-img:hover{
+	transform:scale(1.6);
+}
 .game-card {
     background-color: #FFFFFF;
     padding: 1%;
@@ -72,4 +80,31 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+		transition:transform .8s ;
 }
+button:hover{
+	cursor:pointer;
+	transform:scale(1.1);
+  box-shadow: 0 0 30px black;
+}
+button:active{
+	transform:scale(0.98);
+	box-shadow:0 0 10px whitesmoke;
+}
+
+#search-input{
+	width:200px;
+	height:30px;
+	border-radius:10px;
+	border:none;
+	outline:none;
+}
+
+
+
+
+
+
+
+
+
